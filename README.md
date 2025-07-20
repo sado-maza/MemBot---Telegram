@@ -1,0 +1,1 @@
+just a telegram bot in which you play a kind of card game MemClub in a chat. The game has 10 rounds, each is given 1 minute and then a vote of 20 seconds, in which players vote for who gave the best memes, after 10 rounds the main memelog of the game is shared
